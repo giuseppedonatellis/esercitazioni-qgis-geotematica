@@ -41,8 +41,7 @@ Per ogni esercitazione trovi:
 
 ## Autore
 
-Giuseppe Donatellis
-Studente magistrale in Scienze Naturali – Università degli Studi di Napoli Federico II  
+Giuseppe Donatellis, studente magistrale in Scienze Naturali – Università degli Studi di Napoli Federico II  
 Corso: GIS e Cartografia Geotematica  
 
 Software utilizzato: QGIS 3.10.4
@@ -58,7 +57,7 @@ Questo progetto è rilasciato con licenza MIT. I dati provenienti da enti istitu
 ## Accesso ai dati
 https://drive.google.com/drive/folders/1H_5HBdXEQsDLMM4kAtHOKwS25H335BHO?usp=drive_link
 
-
+https://drive.google.com/drive/folders/1uZG7iCnd4QLjypivax30SLDiACqcXT_G?usp=drive_link
 
 ---
 
