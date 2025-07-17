@@ -5,6 +5,7 @@ Questa repository contiene una raccolta ordinata delle esercitazioni pratiche sv
 ---
 
 ## Obiettivo
+
 Applicare i concetti teorici del GIS attraverso esercitazioni guidate su QGIS, per imparare a gestire dati raster e vettoriali, georeferenziare mappe, digitalizzare carte geologiche, analizzare dati spaziali e creare layout cartografici professionali.
 
 ---
@@ -55,6 +56,7 @@ Questo progetto è rilasciato con licenza MIT. I dati provenienti da enti istitu
 ---
 
 ## Accesso ai dati
+
 https://drive.google.com/drive/folders/1H_5HBdXEQsDLMM4kAtHOKwS25H335BHO?usp=drive_link
 
 https://drive.google.com/drive/folders/1uZG7iCnd4QLjypivax30SLDiACqcXT_G?usp=drive_link
