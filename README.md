@@ -57,11 +57,7 @@ Questo progetto è rilasciato con licenza MIT. I dati provenienti da enti istitu
 
 ## Accesso ai dati
 
-https://drive.google.com/drive/folders/1H_5HBdXEQsDLMM4kAtHOKwS25H335BHO?usp=drive_link
-
-https://drive.google.com/drive/folders/1uZG7iCnd4QLjypivax30SLDiACqcXT_G?usp=drive_link
-
-https://drive.google.com/drive/folders/16KDHj1bOByk77aWQvLhcWiasRQF2U1bN?usp=drive_link
+https://drive.google.com/drive/folders/1Wwcg09ZFzK5_WV-e4IN_BIBqsTvebXzO?usp=drive_link
 
 ---
 
