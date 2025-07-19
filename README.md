@@ -45,7 +45,10 @@ Per ogni esercitazione trovi:
 Giuseppe Donatellis, studente magistrale in Scienze Naturali – Università degli Studi di Napoli Federico II  
 Corso: GIS e Cartografia Geotematica  
 
-Software utilizzato: QGIS 3.10.4
+---
+
+## Software utilizzato: 
+- QGIS 3.10.4
 
 ---
 
